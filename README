@@ -4,4 +4,4 @@ HOW TO USE
 3. Run command: node ETH_scan_privatekey.js
 
 
-It's for educational purpose only. It's seem bruteforce have no chance. The probability you get a live wallet may be 2^(-200). If you got luck and found someone wallet, please don't take it!
+It's for educational purpose only. It's seem bruteforce have no chance. The probability you get a live wallet maybe 2^(-200). If you got luck and found someone wallet, please don't take it!
