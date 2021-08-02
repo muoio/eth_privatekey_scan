@@ -1,7 +1,7 @@
 HOW TO USE
-1. Sign in at https://infura.io/. Create new project. Copy infura key.
-2. npm install
-3. node eth_scan_privatekey.js
+1. Sign in at https://infura.io/. Create new project. Copy infura key. Paste it in line 2 of file "ETH_scan_privatekey.js".
+2. Open terminal. Run command: npm install
+3. Run command: node ETH_scan_privatekey.js
 
 
 It's for educational purpose only. It's seem bruteforce have no chance. The probability you get a live wallet may be 2^(-200). If you got luck and found someone wallet, please don't take it!
