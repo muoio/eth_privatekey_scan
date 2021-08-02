@@ -1,5 +1,3 @@
-
-
 const Web3 = require('web3');
 const infura_key = 'ENTER YOUR INFURA KEY';
 const web3 = new Web3('https://mainnet.infura.io/v3/'+infura_key);
